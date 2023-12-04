@@ -1,7 +1,7 @@
-import fakeProduct from '../images/fake_photo.jpeg'
-import fakeProduct1 from '../images/fake_photo1.jpeg'
-import fakeProduct2 from '../images/fake_photo2.jpeg'
-import fakeProduct3 from '../images/fake_photo3.jpeg'
+import fakeProduct from '../Assets/fake_photo.jpeg'
+import fakeProduct1 from '../Assets/fake_photo1.jpeg'
+import fakeProduct2 from '../Assets/fake_photo2.jpeg'
+import fakeProduct3 from '../Assets/fake_photo3.jpeg'
 
 const all_products = [
     {
