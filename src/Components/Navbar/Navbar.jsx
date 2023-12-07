@@ -11,7 +11,9 @@ export const Navbar = () => {
   return (
     <div className="navbar"> 
       <div className="nav_logo">
+        <Link to="/">
         <img src={logo} alt="logo" width="50px" />
+        </Link>
         <p>Needle</p>
       </div>
       <ul className="nav_menu">

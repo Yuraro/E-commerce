@@ -11,6 +11,7 @@ const all_products = [
         image: fakeProduct,
         new_price: '1150',
         old_price: '2150',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 2,
@@ -19,6 +20,7 @@ const all_products = [
         image: fakeProduct1,
         new_price: '1250',
         old_price: '2150',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 3,
@@ -27,6 +29,7 @@ const all_products = [
         image: fakeProduct2,
         new_price: '1200',
         old_price: '2200',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 4,
@@ -35,6 +38,7 @@ const all_products = [
         image: fakeProduct3,
         new_price: '950',
         old_price: '1950',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 5,
@@ -43,6 +47,7 @@ const all_products = [
         image: fakeProduct,
         new_price: '1550',
         old_price: '1550',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 6,
@@ -51,6 +56,7 @@ const all_products = [
         image: fakeProduct1,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 7,
@@ -59,6 +65,7 @@ const all_products = [
         image: fakeProduct2,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 8,
@@ -67,6 +74,7 @@ const all_products = [
         image: fakeProduct3,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 9,
@@ -75,6 +83,7 @@ const all_products = [
         image: fakeProduct,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 10,
@@ -83,6 +92,7 @@ const all_products = [
         image: fakeProduct1,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 11,
@@ -91,6 +101,7 @@ const all_products = [
         image: fakeProduct2,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     },
     {
         id: 12,
@@ -99,6 +110,7 @@ const all_products = [
         image: fakeProduct3,
         new_price: '1250',
         old_price: '2250',
+        description: 'Discover comfort and performance in our "ActiveFlex Pro" fabric. Engineered for optimal breathability and flexibility, this high-tech athletic wear ensures a seamless blend of style and functionality. Elevate your fitness journey with the perfect fusion of comfort and innovation.',
     }
 ];
 

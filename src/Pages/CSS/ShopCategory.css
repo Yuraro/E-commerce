@@ -37,7 +37,7 @@
 .shopcategory-loadmore{
     display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: center;
     margin: 150px auto;
     width: 233px;
     height: 69px;
