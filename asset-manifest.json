@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.30613c29.css",
-    "main.js": "/static/js/main.89447271.js",
-    "static/js/787.4c8b65ad.chunk.js": "/static/js/787.4c8b65ad.chunk.js",
-    "static/media/hero_image.png": "/static/media/hero_image.2f051df54a751ece71e1.png",
-    "static/media/fake_photo3.jpeg": "/static/media/fake_photo3.5081cc641bc7225f0720.jpeg",
-    "static/media/fake_photo2.jpeg": "/static/media/fake_photo2.825e50a3a5dd6df833a4.jpeg",
-    "static/media/fake_photo.jpeg": "/static/media/fake_photo.0f696ff877a59ed46cab.jpeg",
-    "static/media/fake_photo1.jpeg": "/static/media/fake_photo1.8c300503c6828a29694e.jpeg",
-    "static/media/arrow_icon.png": "/static/media/arrow_icon.58d85f1d6644a3e18eb2.png",
-    "static/media/exclusive_image.png": "/static/media/exclusive_image.d5a797dbe0b03ae2bd22.png",
-    "static/media/hand_icon1.png": "/static/media/hand_icon1.85134b9fc8bf235c5e79.png",
-    "static/media/needle.svg": "/static/media/needle.da01de02429d2108fa7b0804fdcd098d.svg",
-    "static/media/bag.svg": "/static/media/bag.aefb25c9754acde6988759de23e92ce5.svg",
-    "index.html": "/index.html",
-    "main.30613c29.css.map": "/static/css/main.30613c29.css.map",
-    "main.89447271.js.map": "/static/js/main.89447271.js.map",
-    "787.4c8b65ad.chunk.js.map": "/static/js/787.4c8b65ad.chunk.js.map"
+    "main.css": "/e-commerce/static/css/main.64a73b48.css",
+    "main.js": "/e-commerce/static/js/main.f8103251.js",
+    "static/js/787.4c8b65ad.chunk.js": "/e-commerce/static/js/787.4c8b65ad.chunk.js",
+    "static/media/hero_image.png": "/e-commerce/static/media/hero_image.2f051df54a751ece71e1.png",
+    "static/media/fake_photo3.jpeg": "/e-commerce/static/media/fake_photo3.5081cc641bc7225f0720.jpeg",
+    "static/media/fake_photo2.jpeg": "/e-commerce/static/media/fake_photo2.825e50a3a5dd6df833a4.jpeg",
+    "static/media/fake_photo.jpeg": "/e-commerce/static/media/fake_photo.0f696ff877a59ed46cab.jpeg",
+    "static/media/fake_photo1.jpeg": "/e-commerce/static/media/fake_photo1.8c300503c6828a29694e.jpeg",
+    "static/media/banner_kids.jpg": "/e-commerce/static/media/banner_kids.62487e4f45392023adbb.jpg",
+    "static/media/banner_women.jpg": "/e-commerce/static/media/banner_women.087456b3bad8ce456c82.jpg",
+    "static/media/instagram_icon.png": "/e-commerce/static/media/instagram_icon.3ce96ef9ec097143fe43.png",
+    "static/media/arrow_icon.png": "/e-commerce/static/media/arrow_icon.58d85f1d6644a3e18eb2.png",
+    "static/media/bannner_mens.jpg": "/e-commerce/static/media/bannner_mens.4bfef4094db50bda95a5.jpg",
+    "static/media/exclusive_image.png": "/e-commerce/static/media/exclusive_image.d5a797dbe0b03ae2bd22.png",
+    "static/media/pinterest_logo.png": "/e-commerce/static/media/pinterest_logo.8f0c34f44019fff319e4.png",
+    "static/media/hand_icon1.png": "/e-commerce/static/media/hand_icon1.85134b9fc8bf235c5e79.png",
+    "static/media/remove_icon.png": "/e-commerce/static/media/remove_icon.ced12f15b69b232e1e42.png",
+    "static/media/star.png": "/e-commerce/static/media/star.c874d954ba85cbc2e9da.png",
+    "static/media/needle.svg": "/e-commerce/static/media/needle.da01de02429d2108fa7b0804fdcd098d.svg",
+    "static/media/bag.svg": "/e-commerce/static/media/bag.aefb25c9754acde6988759de23e92ce5.svg",
+    "index.html": "/e-commerce/index.html",
+    "main.64a73b48.css.map": "/e-commerce/static/css/main.64a73b48.css.map",
+    "main.f8103251.js.map": "/e-commerce/static/js/main.f8103251.js.map",
+    "787.4c8b65ad.chunk.js.map": "/e-commerce/static/js/787.4c8b65ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30613c29.css",
-    "static/js/main.89447271.js"
+    "static/css/main.64a73b48.css",
+    "static/js/main.f8103251.js"
   ]
 }
